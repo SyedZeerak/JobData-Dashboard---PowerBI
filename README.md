@@ -1,7 +1,3 @@
-Here’s a polished `README.md` tailored for your **Job Market Insights from RozeePK – 2025** Power BI project:
-
----
-
 # 🚀 Job Market Insights from RozeePK – 2025 🔥
 
 <p align="center">
@@ -16,42 +12,50 @@ Here’s a polished `README.md` tailored for your **Job Market Insights from Roz
   <a href="JobMarketInsights.pbix" target="_blank">
     <img alt="Download PBIX" src="https://img.shields.io/badge/Download-.pbix-1a73e8?logo=microsoftpowerpoint&logoColor=white&labelColor=1a1a1a">
   </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/datasets/YOUR-KAGGLE/rozeepk-job-market-2025" target="_blank">
+    <img alt="Dataset on Kaggle" src="https://img.shields.io/badge/View%20Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white&labelColor=1a1a1a">
+  </a>
 </p>
 
 ---
 
 ## 📌 Project Overview
 
-This Power BI dashboard analyzes **RozeePK’s 2025 job market dataset** to uncover trends in hiring, salaries, demand by skill, and city-level opportunities across Pakistan.
+This Power BI project analyzes **RozeePK Job Market – 2025**, using a **self-curated dataset** (published on [Kaggle](https://www.kaggle.com/datasets/YOUR-KAGGLE/rozeepk-job-market-2025)) to uncover salary trends, hiring hotspots, skill demand, and city-level opportunities across Pakistan.
 
-It transforms raw job listings into **actionable insights** for:
+It transforms raw job postings into **actionable insights** for:
 
-* 🎓 **Job seekers** (where and how to focus skills)
-* 🏢 **Employers** (market trends and benchmarks)
-* 📊 **Policy makers & analysts** (labor market direction)
-
----
-
-## ✅ Key Highlights
-
-* **1,780+ jobs** available across industries
-* **80,000 PKR** — the average salary
-* **Management** is the top hiring functional area
-* **Lahore** leads as the top city for job opportunities
+* 🎓 **Job seekers** → where to upskill & apply
+* 🏢 **Employers** → benchmark salaries & demand
+* 📊 **Researchers** → labor market patterns
 
 ---
 
-## 💰 Salary Trends
+## 📊 Interactive Insights
 
-* 📈 **Highest salaries** in contract-based roles → followed by full-time
-* 📉 **Internships & entry-level** offer lowest salaries (\~19K PKR)
-* 👔 **Experienced professionals & department heads** earn the most (up to **700K PKR**)
+<details open>
+<summary><b>📌 Key Highlights</b></summary>
 
----
+* ✅ **1,780+ jobs** across industries
+* ✅ **80,000 PKR** → average salary
+* ✅ **Management** → top functional area
+* ✅ **Lahore** → #1 city for job opportunities
 
-## 🛠️ Most In-Demand Skills
+</details>
 
-💼 Employers are seeking expertise in:
+<details>
+<summary><b>💰 Salary Trends</b></summary>
+
+* 📈 **Contract-based roles** → highest salaries
+* 👔 **Experienced professionals & dept. heads** → up to **700K PKR**
+* 📉 **Interns & fresh grads** → start around **19K PKR**
+* ⚖️ **Full-time** sits between contract & internship salaries
+
+</details>
+
+<details>
+<summary><b>🛠️ Most In-Demand Skills</b></summary>
 
 * **Management & Leadership**
 * **Communication & Coordination**
@@ -59,29 +63,23 @@ It transforms raw job listings into **actionable insights** for:
 * **Marketing & Sales** → SEO, Branding, Digital Strategy
 * **Finance & Accounting** → Bookkeeping, Payroll, Audits
 
+</details>
+
+<details>
+<summary><b>🌍 Top Cities</b></summary>
+
+* 🏙️ Lahore, Karachi, Islamabad → highest job volume
+* 📌 Peshawar, Multan, Faisalabad → rising demand
+
+</details>
+
 ---
 
-## 🌍 Top Cities for Jobs
-
-* 🏙️ **Lahore, Karachi, Islamabad** → largest hubs for opportunities
-* 📌 **Peshawar, Multan, Faisalabad** → growing hiring demand
-
----
-
-## 💡 Insights for Job Seekers
+## 💡 What This Means for Job Seekers
 
 * 🔎 Focus on **high-demand skills** (management, IT, marketing)
-* 🚀 Leverage opportunities in **major cities** for better roles
-* 📈 Upskill continuously → higher salaries & growth potential
-
----
-
-## 📊 Dashboard Features
-
-* Interactive filters (City, Career Level, Functional Area)
-* Salary analysis by **employment type & career stage**
-* Skill demand heatmap
-* Hiring distribution across cities
+* 🚀 Relocate or network in **major hubs** (Lahore, Karachi, Islamabad)
+* 📈 Upskill for leadership roles to unlock higher salary brackets
 
 ---
 
@@ -89,21 +87,21 @@ It transforms raw job listings into **actionable insights** for:
 
 ```
 .
-├── JobMarketInsights.pbix     # Power BI report file
+├── JobMarketInsights.pbix       # Power BI dashboard
 ├── data/
-│   └── RozeePK_Jobs_2025.csv  # Cleaned dataset (if shareable)
+│   └── rozeepk_job_market_2025.csv   # Self-created dataset
 ├── images/
-│   └── dashboard-preview.png  # Dashboard screenshots
-└── README.md                  # Documentation (this file)
+│   └── dashboard-preview.png    # Dashboard screenshot
+└── README.md
 ```
 
 ---
 
-## 🗒️ Notes
+## 🔗 Resources
 
-* Dataset source: **RozeePK – 2025 Job Listings**
-* All figures shown are aggregated for demo/analysis purposes
-* Work in progress → expect future refinements & deeper insights
+* 📊 **Live Dashboard:** [View on Power BI](https://app.powerbi.com/view?r=YOUR_PUBLISHED_LINK)
+* 📂 **Dataset:** [Kaggle – RozeePK Job Market 2025](https://www.kaggle.com/datasets/YOUR-KAGGLE/rozeepk-job-market-2025)
+* 🖥️ **PBIX File:** [Download here](JobMarketInsights.pbix)
 
 ---
 
@@ -115,7 +113,7 @@ It transforms raw job listings into **actionable insights** for:
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/YOUR-KAGGLE" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/View%20on-Kaggle-20BEFF?logo=kaggle&logoColor=white">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Follow-Kaggle-20BEFF?logo=kaggle&logoColor=white">
   </a>
 </p>
 
@@ -125,5 +123,6 @@ It transforms raw job listings into **actionable insights** for:
 
 `#PowerBI` `#DataAnalytics` `#JobMarket` `#PakistanJobs` `#HiringTrends` `#RozeePK` `#CareerGrowth`
 
+---
 
-📣 *What’s your take on these job market trends? Open an issue or share insights on LinkedIn!*
+⚡ *Work in Progress – More slices, visuals & interactive filters coming soon!*
