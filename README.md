@@ -1,19 +1,16 @@
 # 🚀 Job Market Insights from RozeePK – 2025 🔥
 
 <p align="center">
-  <img src="images/dashboard-preview.png" alt="Job Market Dashboard Preview" width="850">
+  <img src="preview.png" alt="Job Market Dashboard Preview" width="850">
 </p>
 
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=YOUR_PUBLISHED_LINK" target="_blank">
-    <img alt="View Live Dashboard" src="https://img.shields.io/badge/View%20Live%20Dashboard-FFD700?logo=powerbi&logoColor=white&labelColor=1a1a1a">
-  </a>
   &nbsp;
-  <a href="JobMarketInsights.pbix" target="_blank">
+  <a href="Jobs-RozeePK.pbix" target="_blank">
     <img alt="Download PBIX" src="https://img.shields.io/badge/Download-.pbix-1a73e8?logo=microsoftpowerpoint&logoColor=white&labelColor=1a1a1a">
   </a>
   &nbsp;
-  <a href="https://www.kaggle.com/datasets/YOUR-KAGGLE/rozeepk-job-market-2025" target="_blank">
+  <a href="https://www.kaggle.com/datasets/zincly/pakistan-job-market-dataset-rozee-pk" target="_blank">
     <img alt="Dataset on Kaggle" src="https://img.shields.io/badge/View%20Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white&labelColor=1a1a1a">
   </a>
 </p>
@@ -22,7 +19,7 @@
 
 ## 📌 Project Overview
 
-This Power BI project analyzes **RozeePK Job Market – 2025**, using a **self-curated dataset** (published on [Kaggle](https://www.kaggle.com/datasets/YOUR-KAGGLE/rozeepk-job-market-2025)) to uncover salary trends, hiring hotspots, skill demand, and city-level opportunities across Pakistan.
+This Power BI project analyzes **RozeePK Job Market – 2025**, using a **self-curated dataset** (published on [Kaggle](https://www.kaggle.com/datasets/zincly/pakistan-job-market-dataset-rozee-pk)) to uncover salary trends, hiring hotspots, skill demand, and city-level opportunities across Pakistan.
 
 It transforms raw job postings into **actionable insights** for:
 
@@ -87,11 +84,8 @@ It transforms raw job postings into **actionable insights** for:
 
 ```
 .
-├── JobMarketInsights.pbix       # Power BI dashboard
-├── data/
-│   └── rozeepk_job_market_2025.csv   # Self-created dataset
-├── images/
-│   └── dashboard-preview.png    # Dashboard screenshot
+├── Jobs-RozeePK.pbix       # Power BI dashboard
+├── preview.png             # Dashboard screenshot   
 └── README.md
 ```
 
@@ -99,20 +93,19 @@ It transforms raw job postings into **actionable insights** for:
 
 ## 🔗 Resources
 
-* 📊 **Live Dashboard:** [View on Power BI](https://app.powerbi.com/view?r=YOUR_PUBLISHED_LINK)
-* 📂 **Dataset:** [Kaggle – RozeePK Job Market 2025](https://www.kaggle.com/datasets/YOUR-KAGGLE/rozeepk-job-market-2025)
-* 🖥️ **PBIX File:** [Download here](JobMarketInsights.pbix)
+* 📂 **Dataset:** [Kaggle – RozeePK Job Market 2025]([https://www.kaggle.com/datasets/YOUR-KAGGLE/rozeepk-job-market-2025](https://www.kaggle.com/datasets/zincly/pakistan-job-market-dataset-rozee-pk))
+* 🖥️ **PBIX File:** [Download here](Jobs-RozeePK.pbix)
 
 ---
 
 ## 📢 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/syed-wajdan-zeerak" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://www.kaggle.com/YOUR-KAGGLE" target="_blank">
+  <a href="https://www.kaggle.com/zincly" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Follow-Kaggle-20BEFF?logo=kaggle&logoColor=white">
   </a>
 </p>
